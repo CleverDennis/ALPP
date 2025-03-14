@@ -1,0 +1,6 @@
+dennis@dennis-VirtualBox:~/文档/第三周课堂测试$ gmssl dgst -sha256 sn.txt
+SHA256(sn.txt)= 0f97983858f95b59923109d0f17443bfb80240a4e8cabd33812cb72dc2d20344
+dennis@dennis-VirtualBox:~/文档/第三周课堂测试$ gmssl dgst -sha1 sn.txt
+SHA1(sn.txt)= f3f48a8b1593ee52385afc191ea7990ca42dbd31
+dennis@dennis-VirtualBox:~/文档/第三周课堂测试$ gmssl dgst -md5 sn.txt
+MD5(sn.txt)= b8eaccb04ac6ebd32aa065b332b9a874
